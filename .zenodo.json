@@ -1,0 +1,21 @@
+{
+  "title": "UAV Flight Stability Algorithm",
+  "upload_type": "software",
+  "description": "An explainable Python package for adaptive anomaly scoring of UAV flight stability telemetry. Version 1 computes component scores for velocity instability, GPS deviation, IMU inconsistency, and battery stress, then combines them with context-aware adaptive weights and temporal smoothing.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "UAV",
+    "drone",
+    "telemetry",
+    "anomaly detection",
+    "flight stability",
+    "Python"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}

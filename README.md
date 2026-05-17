@@ -1,5 +1,8 @@
 # UAV Flight Stability Algorithm
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![DOI](https://zenodo.org/badge/1241173874.svg)](https://doi.org/10.5281/zenodo.20250039)
+
 A lightweight, explainable Python package for detecting abnormal UAV flight stability patterns from telemetry logs.
 
 Version 1 is designed as an offline flight-log analysis tool. It does not control aircraft, replace an autopilot, or provide certified aviation safety decisions. It produces an interpretable anomaly score from telemetry so engineers, researchers, students, and maintainers can inspect flight behavior after a flight or during simulation.
